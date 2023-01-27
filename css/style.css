@@ -28,11 +28,11 @@ body {
 
 .qr-image {
   text-align: center;
-  padding-top: 15px;
+  padding: 15px;
 }
 
 .qr-image img {
-  width: 90%;
+  max-width: 100%;
   border-radius: 25px;
 }
 
